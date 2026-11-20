@@ -17,7 +17,7 @@
 | [rag-document-qa](https://github.com/awf-cpu/rag-document-qa) | RAG over documents: embeddings, vector search and grounded answers with citations |
 | [tool-using-agent](https://github.com/awf-cpu/tool-using-agent) | An AI agent that uses tools in a reason → act loop |
 | [mini-llm-router](https://github.com/awf-cpu/mini-llm-router) | LLM gateway: task-based routing, fallbacks, caching and cost/latency logging |
-| [tft-sensei](https://github.com/awf-cpu/tft-sensei) | Real-time voice AI coach that reads a game board and explains each recommendation |
+| [tft-sensei](https://github.com/awf-cpu/tft-sensei) | Multimodal AI coach that reads a game screen and explains each recommendation (voice on the roadmap) |
 | [taba](https://github.com/awf-cpu/taba) | Browser idle RPG in vanilla JS, single file, playable at [awf-cpu.github.io/taba](https://awf-cpu.github.io/taba/) |
 
 ### Open-source contributions
@@ -26,6 +26,17 @@
 
 ### How I work
 Small, reversible releases · tests that prove they can fail (mutants) · logs you can audit · data stays where the law says it should.
+
+### Work with me / Services
+Through **Pindorama Tecnologia** (Florianópolis, Brazil) I build custom AI systems for companies and law firms:
+
+- **WhatsApp service agents** with compliance guardrails (LGPD, bar-association rules)
+- **RAG over your documents**, with source citations
+- **Document and deadline automation**
+- **LLM routing with cost control** (right model per task, caching, spend audit)
+- **Local AI**, with data kept in Brazil when it cannot leave the company
+
+Proof: a multi-tenant legal AI platform in production, built solo. To talk about a project, message me on [LinkedIn](https://www.linkedin.com/in/andrefeix) or write to andrefeix777@gmail.com.
 
 ### Reach me
 - LinkedIn: https://www.linkedin.com/in/andrefeix
